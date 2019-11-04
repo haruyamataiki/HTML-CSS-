@@ -13,6 +13,7 @@ main{
 	margin:50px auto;
 }
 .box{
+  position:relative;
 	float:left;
 	width:300px;
 	padding:10px;
@@ -41,6 +42,7 @@ main{
   background-position: bottom;
 }
 .step{
+  position: absolute;
   top:0;
   left:0;
   padding:3px;
